@@ -1,16 +1,9 @@
 # flutterweatherapp
 
-A new Flutter project.
+A Weather App using flutter and dart
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Functionalities:
+1. weather condition of any city.
+2. Sunrise and susnet time
+3. Every 3 House forecast of future
+4. Realitime updating all weather condition
